@@ -1,0 +1,12 @@
+body {
+    background: rgb(225, 220, 220)
+}
+
+p {
+    color:rgb(87, 86, 83)
+}
+
+.main-picture {
+    box-shadow: 4px 4px 10px #775d50;
+    border-radius: 50px 10px;
+}  

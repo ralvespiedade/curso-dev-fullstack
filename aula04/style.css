@@ -1,0 +1,27 @@
+body {
+    background: rgb(225, 220, 220)
+}
+
+p {
+    color:rgb(87, 86, 83)
+}
+
+.main-picture {
+    margin: 10% 10% 10% 10%;
+    /*margin-left: 25%;*/
+    margin-bottom: 70px;
+    /**border: 5px solid black;
+    border: 5px double black;
+    border: 10px dotted blue;*/
+    /*margin:10%;*/
+    /*
+    border-width: 5px;
+    border-style: groove;
+    border-color: red;
+    border-radius: 100%;
+    */
+    border-radius: 5% 5% 5% 5%;
+    border: 10px inset rgb(133, 115, 115);
+    
+    
+}  

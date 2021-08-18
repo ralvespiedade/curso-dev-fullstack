@@ -1,0 +1,15 @@
+body {
+    background: rgb(225, 220, 220)
+}
+
+p {
+    color:rgb(87, 86, 83)
+}
+
+.main-picture {
+    padding: 10px;
+    margin: 30px;
+    box-shadow: 5px 5px 10px black;
+    
+    
+}  
